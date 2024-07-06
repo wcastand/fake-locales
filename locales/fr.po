@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# This is my description
+msgid "hello-world"
+msgstr "Coucou le monde!"
+
+# This is my description 2
+msgid "la potata"
+msgstr "La patate !"
